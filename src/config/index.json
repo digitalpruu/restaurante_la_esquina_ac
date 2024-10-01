@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "En Restaurante La Esquina AC, nos especializamos en ofrecer desayunos y almuerzos deliciosos y preparados con ingredientes frescos. ",
+        "description": "En Restaurante La Esquina AC, nos especializamos en ofrecer desayunos y almuerzos deliciosos y preparados con ingredientes frescos.",
         "img": "/assets/images/2.png"
       },
       {
@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 300 5710101",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "gomelitos15@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "la Esquina CA",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
